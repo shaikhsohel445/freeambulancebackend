@@ -7,6 +7,7 @@ binding = "DB"
 database_name = "payments-db"
 database_id = "3fa91d08-e574-4ea2-87a4-3d49aea78d6b"
 
+
 [vars]
 RZP_KEY_ID = "rzp_test_SGic3xiOaXBF3d"
 RZP_SECRET = "tek6b8ZpdoGq6Oh1xn0f1AI1"
