@@ -1,4 +1,4 @@
-name = "payment-app"
+name = "freeambulancebackend"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
